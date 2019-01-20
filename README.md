@@ -1,4 +1,4 @@
-# pandas_hw4
+# Pandas PyCitySchools
 
 In this exercise, I was asked to analyze the district-wide standardized test results. My responsibility was to aggregate the data to and showcase obvious trends in school performance.  This was done using the pandas library and Jupyter Notebook.
 
